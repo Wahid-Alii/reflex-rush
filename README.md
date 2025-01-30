@@ -1,20 +1,31 @@
-# 🚀 Built a Fun Reflex Rush Game with Vue.js 3! 🎯
+# Reflex Rush – A Vue.js Reaction Time Game 🎯  
+
+🚀 **Test Your Reflexes with This Simple Game!**  
+
+## 🎮 How It Works  
+1️⃣ Click the "Play" button to start.  
+2️⃣ Wait for a random delay… ⏳  
+3️⃣ When the box appears, **click it as fast as you can!**  
+4️⃣ Your reaction time determines your rank:  
+
+   🏆 **Legendary** – Under 250ms  
+   👍 **Good** – 251-350ms  
+   🐢 **Slow** – Above 350ms  
+
+## 🛠️ Built With  
+- **Vue.js 3** (Composition API)  
+- JavaScript  
+- CSS  
 
 
-## Just wrapped up a small but exciting project using Vue.js with the Composition API – a simple game to test reaction speed! ⚡
+## 📷 Screenshot  
 
-Here’s how it works:
-🔹 Click "Play" to start.
-🔹 Wait for a random delay… ⏳
-🔹 When the box appears, tap it ASAP!
-🔹 Your reaction time determines your rank:
-🏆 Legendary – Under 250ms
-👍 Good – 251-350ms
-🐢 Slow – Above 350ms
-
-## This was a fun way to experiment with Vue's reactivity and event handling, and it’s surprisingly addictive. 😆
+![Reflex Rush Game](screenshots/reflexrush1.png)
+![Reflex Rush Game](screenshots/reflexrush2.png)
 
 
+## 🚀 Getting Started  
+1️⃣ Clone the repo:
 
 ## Project Setup
 
