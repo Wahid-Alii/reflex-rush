@@ -20,8 +20,8 @@
 
 ## 📷 Screenshot  
 
-![Reflex Rush Game](screenshots/reflexrush1.png)
 ![Reflex Rush Game](screenshots/reflexrush2.png)
+![Reflex Rush Game](screenshots/reflexrush1.png)
 
 
 ## 🚀 Getting Started  
